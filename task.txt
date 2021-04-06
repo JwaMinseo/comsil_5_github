@@ -1,2 +1,4 @@
 컴퓨터공학설계및실험I
 5주차 과제
+
+2. 모든 branch를 master branch에 merge할 것.
