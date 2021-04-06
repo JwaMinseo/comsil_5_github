@@ -2,3 +2,4 @@
 5주차 과제
 
 1. 3개 이상의 branch를 작성하고 각 branch에서 내용을 수정하여 commit하여라.
+2. 모든 branch를 master branch에 merge할 것.
